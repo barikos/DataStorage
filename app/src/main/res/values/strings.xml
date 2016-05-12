@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataStorage</string>
+
+    <string name="txt_edit_main">Введите имя файла</string>
+    <string name="btn_main_create">Создать</string>
+    <string name="btn_main_list">Список</string>
+    <string name="btn_edit_cancel">Отмена</string>
+    <string name="btn_edit_save">Сохранить</string>
+</resources>
